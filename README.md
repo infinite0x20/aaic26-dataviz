@@ -16,6 +16,6 @@ To install a package in R, run the line `install.packages(PACKAGE_NAME)`, replac
 
 ## Repository Layout
 
+- `demo`: contains Rmd files and datasets for the live coding portion of the Immersive
 - `getting_started`: contains setup R file for package installation
 - `slides`: contains all workshop slides in PDF form
-- `demo`: contains Rmd files and datasets for the live coding portion of the Immersive
