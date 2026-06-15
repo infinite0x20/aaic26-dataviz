@@ -7,10 +7,9 @@ Welcome to our ISTAART Immersive! We (Suh Young, Karen, Seo-Eun, and Joey) are e
 Make sure to download [R and RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads) for your operating system. Please consult the FAQ on Posit's site for troubleshooting.
 
 You will also need to install the following packages for this Immersive:
+
 - `tidyverse`
 - `ggplot2`
-- `ggseg`
-- `ggseg3d`
 
 To install a package in R, run the line `install.packages(PACKAGE_NAME)`, replacing `PACKAGE_NAME` with the name of the package; e.g., `install.packages(tidyverse)`. If you are unsure how to do this, open the `setup.R` file from the `getting_started` folder and run the file in RStudio.
 
@@ -19,3 +18,5 @@ To install a package in R, run the line `install.packages(PACKAGE_NAME)`, replac
 - `getting_started`: contains setup R file for package installation
 - `slides`: contains all workshop slides in PDF form
 - `demo`: contains Rmd files and datasets for the live coding portion of the Immersive
+
+## MATERIALS AND FILES SUBJECT TO CHANGE. CHECK THIS PAGE OFTEN FOR FURTHER UPDATES.
