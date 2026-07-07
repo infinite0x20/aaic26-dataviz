@@ -9,7 +9,8 @@ Make sure to download [R and RStudio](https://docs.posit.co/ide/user/#rstudio-id
 You will also need to install the following packages for this Immersive:
 
 - `tidyverse`
-- `ggplot2`
+- `viridis`
+- `scales`
 
 To install a package in R, run the line `install.packages(PACKAGE_NAME)`, replacing `PACKAGE_NAME` with the name of the package; e.g., `install.packages(tidyverse)`. If you are unsure how to do this, open the `setup.R` file from the `getting_started` folder and run the file in RStudio.
 
